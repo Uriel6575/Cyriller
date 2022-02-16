@@ -268,6 +268,9 @@ namespace Cyriller.Tests
         {
             string result = this.CyrName.DeclineSurnameGenitive("петрова", true);
             Assert.Equal("петровой", result);
+
+            result = this.CyrName.DeclineSurnameGenitive("киселёва", true);
+            Assert.Equal("киселёвой", result);
         }
 
         [Fact]

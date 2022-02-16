@@ -1024,6 +1024,7 @@ namespace Cyriller
                 {
                     case "ова":
                     case "ева":
+                    case "ёва":
                     case "ина":
                     case "ына":
                         surname = SetEnd(surname, 1, "ой");
