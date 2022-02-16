@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net45;net40</TargetFrameworks>
     <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);CopyProjectReferencesToPackage</TargetsForTfmSpecificBuildOutput>
-    <PackageId>Miyconst.Cyriller</PackageId>
-    <Version>0.1.1</Version>
+    <PackageId>Miyconst.Cyriller.Stek</PackageId>
+    <Version>2022.02.16</Version>
     <Description>Библиотека для склонения существительных, прилагательных, чисел и личных имен русского языка по падежам.</Description>
     <Company>http://www.miyconst.com/</Company>
     <Copyright>Copyright © Konstantin Mi 2014-2020</Copyright>
